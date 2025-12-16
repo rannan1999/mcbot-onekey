@@ -1,12 +1,10 @@
 [
   {
-    "host": "emerald.magmanode.com",
-    "port": 34356
+    "host": "191.96.231.5",
+    "port": 30066
   },
   {
-    "host": "example.server.net",
-    "port": 25565,
-    "username": "HappyFox",
-    "version": "1.21.1"
+    "host": "151.242.106.72",
+    "port": 25340,
   }
 ]
