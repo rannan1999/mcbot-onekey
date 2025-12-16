@@ -59,7 +59,7 @@ white-list=false
 复制下面这一整行命令，在服务器终端中执行：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/mcbot-onekey/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/rannan1999/mcbot-onekey/main/install.sh)
 ```
 
 #### 🎯 安装脚本会自动完成：
